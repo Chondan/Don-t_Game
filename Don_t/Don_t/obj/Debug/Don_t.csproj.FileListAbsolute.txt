@@ -1,0 +1,66 @@
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\bin\Debug\Don_t.exe.config
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\bin\Debug\Don_t.exe
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\bin\Debug\Don_t.pdb
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.exe
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.pdb
+c:\users\5930091221\documents\visual studio 2013\Projects\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+C:\Users\Administrator\Desktop\Don_t\Don_t\bin\Debug\Don_t.exe.config
+C:\Users\Administrator\Desktop\Don_t\Don_t\bin\Debug\Don_t.exe
+C:\Users\Administrator\Desktop\Don_t\Don_t\bin\Debug\Don_t.pdb
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.exe
+C:\Users\Administrator\Desktop\Don_t\Don_t\obj\Debug\Don_t.pdb
+C:\Users\User\Desktop\Don_t\Don_t\bin\Debug\Don_t.exe.config
+C:\Users\User\Desktop\Don_t\Don_t\bin\Debug\Don_t.exe
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.exe
+C:\Users\User\Desktop\Don_t\Don_t\obj\Debug\Don_t.pdb
+C:\Users\User\Desktop\Don_t\Don_t\bin\Debug\Don_t.pdb
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csproj.CoreCompileInputs.cache
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.exe
+F:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.pdb
+F:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe.config
+F:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe
+F:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.pdb
+E:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe.config
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.exe
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.pdb
+E:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe
+E:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.pdb
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+E:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+H:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe.config
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.exe
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.pdb
+H:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.exe
+H:\DONT PROJECT\Don_t\Don_t\bin\Debug\Don_t.pdb
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+H:\DONT PROJECT\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\bin\Debug\Don_t.exe.config
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.exe
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.pdb
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\bin\Debug\Don_t.exe
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\bin\Debug\Don_t.pdb
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.csprojResolveAssemblyReference.cache
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.Form1.resources
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.Properties.Resources.resources
+\\winserver\alltemp\TEACHER\poom\2104255_app_dev\final_project_thursday\5930091221\Don_t\Don_t\obj\Debug\Don_t.csproj.GenerateResource.Cache
